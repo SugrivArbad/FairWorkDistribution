@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Source\\NAR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Source\\NAR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\THREAD||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Source\\DatabaseOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Source\\DatabaseOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\ImageObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Headers\\ImageObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\DatabaseOperation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Headers\\DatabaseOperation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\ImageServer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Headers\\ImageServer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\BinaryProtocol.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Headers\\BinaryProtocol.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\Common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Headers\\Common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\Session.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D54B76-5A60-444C-80D7-505E3179235C}|ServerAsio.vcxproj|solutionrelative:Headers\\Session.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NAR.cpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Source\\NAR.cpp",
+              "RelativeDocumentMoniker": "Source\\NAR.cpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Source\\NAR.cpp",
+              "RelativeToolTip": "Source\\NAR.cpp",
+              "ViewState": "AQIAAI4CAAAAAAAAAAD4v54CAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T09:48:42.999Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseOperation.cpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Source\\DatabaseOperation.cpp",
+              "RelativeDocumentMoniker": "Source\\DatabaseOperation.cpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Source\\DatabaseOperation.cpp",
+              "RelativeToolTip": "Source\\DatabaseOperation.cpp",
+              "ViewState": "AQIAAEkBAAAAAAAAAAD4v1cBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T06:51:16.622Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thread",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwDwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T08:51:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageServer.hpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\ImageServer.hpp",
+              "RelativeDocumentMoniker": "Headers\\ImageServer.hpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\ImageServer.hpp",
+              "RelativeToolTip": "Headers\\ImageServer.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T12:02:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseOperation.hpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\DatabaseOperation.hpp",
+              "RelativeDocumentMoniker": "Headers\\DatabaseOperation.hpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\DatabaseOperation.hpp",
+              "RelativeToolTip": "Headers\\DatabaseOperation.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T06:51:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BinaryProtocol.hpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\BinaryProtocol.hpp",
+              "RelativeDocumentMoniker": "Headers\\BinaryProtocol.hpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\BinaryProtocol.hpp",
+              "RelativeToolTip": "Headers\\BinaryProtocol.hpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAQwGwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T09:15:50.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.hpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\Common.hpp",
+              "RelativeDocumentMoniker": "Headers\\Common.hpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\Common.hpp",
+              "RelativeToolTip": "Headers\\Common.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T12:10:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageObject.hpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\ImageObject.hpp",
+              "RelativeDocumentMoniker": "Headers\\ImageObject.hpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\ImageObject.hpp",
+              "RelativeToolTip": "Headers\\ImageObject.hpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAD4v0kAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T12:07:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Session.hpp",
+              "DocumentMoniker": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\Session.hpp",
+              "RelativeDocumentMoniker": "Headers\\Session.hpp",
+              "ToolTip": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\02-ServerAsio\\ServerAsio\\Headers\\Session.hpp",
+              "RelativeToolTip": "Headers\\Session.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T12:06:02.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\bin\Debug\net8.0\ClientMachines.exe
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\bin\Debug\net8.0\ClientMachines.deps.json
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\bin\Debug\net8.0\ClientMachines.runtimeconfig.json
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\bin\Debug\net8.0\ClientMachines.dll
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\bin\Debug\net8.0\ClientMachines.pdb
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.AssemblyInfoInputs.cache
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.AssemblyInfo.cs
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.csproj.CoreCompileInputs.cache
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.dll
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\refint\ClientMachines.dll
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.pdb
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ClientMachines.genruntimeconfig.cache
+E:\Users\Sugriv\21-RnD-NextAvailableRepresentative\03-MachineServerOperator_BoostAsio\01-ClentMachines\ClientMachines\obj\Debug\net8.0\ref\ClientMachines.dll

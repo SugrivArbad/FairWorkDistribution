@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7Cr+7+LB0XD7BOpEo4awHwN0o6XC3Wm4jBP4Ub8McW/dBFogq8h8Yut86xquEoblsuu+AX62EjUf50hVYDJyg==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Sugriv\\21-RnD-NextAvailableRepresentative\\03-MachineServerOperator_BoostAsio\\03-Operators\\Operators\\Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krystalvisionpc\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\krystalvisionpc\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\krystalvisionpc\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
